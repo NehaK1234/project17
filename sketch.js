@@ -42,9 +42,6 @@ diamondsG=new Group();
 jewelryG=new Group();
 swordGroup=new Group();
 
-boy.setCollider("circle",0,0,10);
-  boy.debug = true
-
 }
 
 function draw() {
